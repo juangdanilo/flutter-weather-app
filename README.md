@@ -63,6 +63,6 @@ final _weatherService = WeatherService('YOUR_API_KEY');
 - [Flutter Documentation](https://flutter.dev/docs)
 - [OpenWeatherMap API](https://openweathermap.org/api)
 
-## Licencia
+## Licence
 
 This project is released under The Unlicense - free for any use.
