@@ -2,6 +2,10 @@
 
 Simple Weather App is a Flutter application that displays the current weather of your location. It uses geolocation services and a weather API to fetch and display relevant information, such as temperature, city name, and animations related to weather conditions.
 
+<img src="SS1.png" alt="Texto alternativo" width="200" height="400">
+<img src="SS2.png" alt="Texto alternativo" width="200" height="400">
+<img src="SS3.png" alt="Texto alternativo" width="200" height="400">
+
 ## Features
 
 - **Geolocation**: Automatically detects your current location.
